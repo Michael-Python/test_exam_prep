@@ -1,0 +1,15 @@
+{
+    "python.testing.pytestArgs": [
+        "Static_and_Dynamic_Task_A"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./Static_and_Dynamic_Task_A",
+        "-p",
+        "*_test.py"
+    ]
+}
